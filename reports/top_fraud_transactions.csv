@@ -1,0 +1,51 @@
+transaction_id,user_id,txn_datetime,amount,merchant_category,transaction_country,fraud_reason
+TXN00015844,U00477,2023-05-05 20:34:09,333909.87,Crypto Exchange,RU,high_risk_country_large_amount
+TXN00020426,U00155,2024-07-28 07:08:14,121288.8,Jewelry,US,flagged_user_high_risk_category
+TXN00020127,U00144,2024-09-24 01:50:16,89701.99,Crypto Exchange,US,unusual_hour_large_amount
+TXN00016605,U00109,2023-08-27 02:35:54,79067.65,Crypto Exchange,GB,flagged_user_high_risk_category
+TXN00006845,U00187,2023-09-28 11:57:34,77839.45,ATM Withdrawal,RU,flagged_user_high_risk_category
+TXN00021201,U00213,2024-05-03 06:43:36,65594.19,Wire Transfer,CA,flagged_user_high_risk_category
+TXN00049247,U00176,2024-05-02 09:00:36,64335.08,ATM Withdrawal,BR,flagged_user_high_risk_category
+TXN00013158,U00478,2023-04-24 06:54:53,49341.93,Crypto Exchange,US,flagged_user_high_risk_category
+TXN00006919,U00413,2023-01-17 19:14:39,46495.24,Jewelry,RU,flagged_user_high_risk_category
+TXN00027487,U00399,2024-11-09 06:09:45,44288.89,Gambling,CN,high_risk_country_large_amount
+TXN00017437,U00383,2024-02-22 14:24:46,41983.97,Jewelry,RU,high_risk_country_large_amount
+TXN00024178,U00099,2024-03-07 04:20:51,38461.86,Wire Transfer,NG,high_risk_country_large_amount
+TXN00000929,U00213,2024-08-05 23:16:59,37704.71,ATM Withdrawal,US,flagged_user_high_risk_category
+TXN00001730,U00382,2024-08-20 11:40:24,36952.76,ATM Withdrawal,RU,flagged_user_high_risk_category
+TXN00018364,U00174,2023-12-19 01:27:49,36163.2,Jewelry,GB,unusual_hour_large_amount
+TXN00027948,U00211,2024-12-16 03:01:03,35020.1,Crypto Exchange,US,flagged_user_high_risk_category
+TXN00012594,U00225,2023-04-17 02:46:13,34692.0,ATM Withdrawal,US,unusual_hour_large_amount
+TXN00006739,U00499,2024-05-10 08:15:22,32961.96,Gambling,BR,random_anomaly
+TXN00019491,U00012,2023-09-27 08:50:54,32711.45,Jewelry,CN,high_risk_country_large_amount
+TXN00010186,U00231,2023-10-24 05:27:34,31925.61,Jewelry,CN,high_risk_country_large_amount
+TXN00017144,U00478,2024-04-03 17:22:24,30504.7,ATM Withdrawal,CA,flagged_user_high_risk_category
+TXN00000249,U00187,2023-11-29 16:13:42,29596.08,Crypto Exchange,GB,flagged_user_high_risk_category
+TXN00029267,U00116,2024-12-23 01:03:36,29528.67,Gambling,US,unusual_hour_large_amount
+TXN00040947,U00300,2024-02-24 12:51:00,29302.58,Wire Transfer,US,flagged_user_high_risk_category
+TXN00018133,U00197,2023-11-17 05:14:51,27805.81,Wire Transfer,CN,high_risk_country_large_amount
+TXN00049084,U00478,2024-02-01 15:12:17,26894.35,Jewelry,RU,flagged_user_high_risk_category
+TXN00048858,U00266,2024-10-16 13:52:02,25886.25,ATM Withdrawal,NG,high_risk_country_large_amount
+TXN00019274,U00211,2023-01-25 01:09:39,25736.16,ATM Withdrawal,US,flagged_user_high_risk_category
+TXN00041366,U00113,2024-05-17 05:38:47,24189.91,ATM Withdrawal,NG,flagged_user_high_risk_category
+TXN00007625,U00226,2023-10-02 17:45:38,23929.52,Gambling,CN,high_risk_country_large_amount
+TXN00040470,U00488,2023-09-21 20:50:27,23771.45,Gambling,US,flagged_user_high_risk_category
+TXN00034551,U00056,2023-12-04 04:23:48,22372.57,Gambling,US,unusual_hour_large_amount
+TXN00022839,U00465,2024-07-06 22:08:52,21850.48,ATM Withdrawal,CN,high_risk_country_large_amount
+TXN00042551,U00474,2023-09-18 17:56:54,21321.73,Jewelry,NG,high_risk_country_large_amount
+TXN00013546,U00413,2023-11-29 06:42:40,21065.46,Gambling,RU,flagged_user_high_risk_category
+TXN00010458,U00389,2023-12-20 20:48:17,20922.48,Crypto Exchange,RU,high_risk_country_large_amount
+TXN00048709,U00027,2023-08-24 09:58:45,20337.69,Gambling,CN,high_risk_country_large_amount
+TXN00022217,U00348,2024-03-14 18:00:38,18915.39,Crypto Exchange,CN,random_anomaly
+TXN00002227,U00423,2024-09-12 20:15:27,17715.87,Jewelry,US,flagged_user_high_risk_category
+TXN00000254,U00109,2024-03-04 10:27:26,17574.0,Jewelry,US,flagged_user_high_risk_category
+TXN00035983,U00413,2023-09-27 20:39:32,16852.66,Wire Transfer,US,flagged_user_high_risk_category
+TXN00014320,U00213,2024-11-27 07:48:52,16630.94,Crypto Exchange,RU,flagged_user_high_risk_category
+TXN00036327,U00463,2023-08-15 04:32:48,16618.45,Jewelry,CN,high_risk_country_large_amount
+TXN00049395,U00213,2024-11-26 15:50:19,16341.69,Gambling,US,flagged_user_high_risk_category
+TXN00048356,U00213,2024-08-22 03:12:35,16070.88,Wire Transfer,US,flagged_user_high_risk_category
+TXN00001043,U00216,2024-11-30 19:48:59,15591.49,Wire Transfer,GB,flagged_user_high_risk_category
+TXN00028412,U00129,2023-09-14 02:41:44,15376.58,ATM Withdrawal,NG,high_risk_country_large_amount
+TXN00046374,U00478,2023-08-08 22:06:53,15289.89,Wire Transfer,CN,flagged_user_high_risk_category
+TXN00014649,U00208,2024-10-02 16:22:17,15176.96,Jewelry,CN,high_risk_country_large_amount
+TXN00022409,U00382,2024-04-08 15:09:53,15165.52,Gambling,CN,flagged_user_high_risk_category

@@ -1,0 +1,16 @@
+merchant_category,total_txns,fraud_txns,fraud_rate_pct,avg_txn_amount,fraud_exposure
+Wire Transfer,3307,127,3.84,1274.15,594346.51
+Jewelry,3352,123,3.67,1283.39,735442.84
+ATM Withdrawal,3274,117,3.57,1328.37,751400.9
+Crypto Exchange,3301,110,3.33,1441.98,977264.83
+Gambling,3310,97,2.93,1222.65,481391.19
+Grocery,3290,74,2.25,121.38,10862.85
+Online Shopping,3435,63,1.83,112.96,7557.56
+Travel,3290,54,1.64,106.31,5437.23
+Electronics,3411,55,1.61,112.0,7479.79
+Healthcare,3258,52,1.6,112.79,5228.83
+Entertainment,3419,53,1.55,109.91,5204.02
+Restaurants,3378,52,1.54,106.92,5996.74
+Gas Station,3420,51,1.49,118.45,5456.29
+Retail,3271,43,1.31,109.09,4319.64
+Utilities,3284,37,1.13,111.24,2547.01

@@ -1,0 +1,9 @@
+{
+  "total_transactions": 50000,
+  "total_fraud": 1108,
+  "fraud_rate_pct": 2.216,
+  "total_fraud_exposure": 3599936.23,
+  "critical_txns": 158,
+  "high_txns": 370,
+  "high_risk_users": 263
+}
